@@ -1,4 +1,4 @@
-# Practice What are HTML Elements
+# Practice: What are HTML Elements
 
 ### Practice working with HTML
 
